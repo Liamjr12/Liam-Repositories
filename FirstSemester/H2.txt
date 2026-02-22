@@ -1,0 +1,254 @@
+Computer Programming 1
+by Lampad, Isidro Jr. S.
+
+FUNDAMENTALS
+Computer Program
+- set of instructions knows as codes
+
+Computer Language
+- set of rules that commands computer
+
+Programming
+- instructing computer to do a task using language
+
+Programmer
+- a person that develop computer programs
+
+Programming Paradigms
+- different ways to construct codes
+
+Procedural Programming
+- organizing code into reusable procedure
+
+Object-Oriented Programming
+- uses objects that encapsulates data
+
+Functional Programming
+- treats computation as evaluating math functions
+
+Low-Level Language
+- closer to machine code and hardware
+- direct control over the computer
+
+High-Level Language
+- designed to be easy to read, write, and understand
+
+Syntax
+- set of rules to create valid statements
+
+Command 
+- unique instruction to perform a task
+
+Integrated Development Environment
+- software application for running and testing the code
+
+Library
+- collection of useful resources
+
+Interpreter
+- program that directly executes instructions
+
+Assembler
+- converts low-level to relocatable machine language
+
+Compiler
+- converts high-level to readable machine code
+
+Algorithm
+- set of steps
+- finite sequence of simple computational operation
+
+Steps of Algorithm
+- Problem Analysis
+- Algorithm Design
+- Coding
+- Execution
+
+Pseudocode
+- describes distinct steps of an algorithm
+
+Flowchart
+- diagrammatic representation of an algorithm
+	Program Flowcharts - illustrate logical steps
+	System Flowcharts - show how system works
+
+Java
+- high-level Object-Oriented Programming language
+- created by Sun Microsystem in 1995
+
+Java Runtime Environment
+- software that Java programs requires to run correctly
+
+Java Virtual Machine
+- runs Java applications as run-time engine
+	Compiler - converts source code to binary
+	Interpreter - executes bytecode line by line
+
+Java APIs
+- pre-written Java programs
+
+Java Skeleton
+- class is the basic unit 
+- identifier is the name of the program component
+- reserved keywords are significant to Java compiler
+- braces used to identify blocks of code and data
+- public is visibility modifier
+- static executes program without creating an object of class
+- void main is not expected to return any value
+- main is the name of the method
+- parameter allow methods to receive values
+- args is an array
+- array is a collection of similar data types
+- literal string is a series of characters
+- arguments are information passed to a method
+- comments provide an additional information without  affecting the source code
+
+Data Types
+- operation on the data and the storage method
+
+Primitive Date Types
+- not objects and have no methods
+
+Integer Types
+- signed, positive, and negative value only
+	Byte - smallest; -128 to 127
+	Short - between -32768 to 32677
+	Int - can handle large value and best to use
+	Long - largest integer type
+
+Floating Point
+- called as real numbers and use for fractions
+	Float - single precision takes half space of double
+	Double - double precision can handle large numbers
+
+Character Types
+	ASCII - uses byte to hold a single character
+	Unicode - character format
+
+Boolean
+- for logical value and only holds true or false
+
+Abstract Data Types
+- has objects and methods and has more functions
+
+Variables
+- combination of identifier and data type
+- can be change in program
+- it cannot be used without initializing them
+
+Constant
+- cannot be change in program
+
+Literals
+- values that be assigned to primitive or string type variable and constant
+
+Input 
+- process of entering data in software
+- can come from different sources
+- import statement is added to use a predefined method for input
+
+Output
+- data processed by the software
+- it must be perform or produce any type of output to be useful
+- System.out is the console output and performed by println to display on the monitor
+
+java.lang
+- automatically imported into all Java program 
+
+Control Statement
+- use to control the execution flow of the program
+
+Selection Statements
+- decision making statements (if, if-else, and switch)
+
+If Statement
+- decision making followed by logical expression
+If-else Statement
+- extension of if statement
+
+Switch Statement
+- easier implementation of if-else statement
+
+Repetition Statement
+- looping statement (while, do-while, and for loop)
+
+Loop
+- causes section of program to be repeated 
+
+While Loop
+- looping construct that continues until evaluating condition become false
+
+Do-while Loop
+- list the condition after the statement to be executed
+- considered as post-test loop statement
+
+Iteration
+- number of time the loop body is executed
+
+For Loop
+- iteration are know in advance
+
+String
+- sentence of characters 
+- considered as object and have specific method
+
+String Index
+- each character has a specific position for example first character starts at index 0
+
+String Literal 
+- a series of characters found enclosed in double quotes and is considered constant
+
+Constructor
+- a block of code that utilizes a newly created object
+
+1. Strings() - default constructor to create an empty string
+2. String st = new String(String str); - creates new string object to heap area and stores the given value in it
+3. String(char chars[]) - uses string object and array of characters in it
+4. String(char chars[], int startIndex, int count) - used to create and initialize String object with subrange of a character array
+5. String (byte byteArr[]) - used to create a new String object by decoding the given array of bytes
+6. String (byte byteArr[], int startIndex, int count) - - used to create and initialize String object with subrange of an array of bytes
+
+String Methods
+- used to perform operation on strings
+
+1. charAt() - returns the character present in the specific index
+2. trim() - removes the leading and trailling whitespaces from a string
+3. replace() - changes the matching occurrences of a text or character in the string with new text or character
+4.  equals() - returns true if two strings are identical and false otherwise
+5. toLowerCase()/toUpperCase() - changes all characters in the string to lowercase or uppercase
+6. length() - returns the number of characters in the string
+7. concat() - method returns a new string based on two concatenated or joined strings
+8. indexOf() - returns the position in number of the text 
+9. compareTo() - compares two strings based on their dictionary order
+
+Array 
+- represents data in a connected space in the computer memory
+- collection of element of the same datatype
+
+Single-Dimension Array
+- a list of same type variable
+
+Multi-Dimensional Array
+- it is refers as array of an array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
