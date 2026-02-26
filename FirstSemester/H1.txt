@@ -1,7 +1,0 @@
-Hi, I'm Isidro Lampad Jr., a Bachelor of Science in Information Technology (BSIT) 
-student with a genuine passion for coding. I love spending my weekends diving into code — 
-whether it's building something new, solving problems, or leveling up my skills.
-Every weekend, I challenge myself by working on personal projects and sharing them here on GitHub. 
-It's my way of growing as a developer, staying consistent, and building a portfolio one project at a time.
-Feel free to explore my repositories — more projects are always on the way! 
-
