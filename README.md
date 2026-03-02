@@ -71,13 +71,6 @@ A desktop application that calculates a student's grade average across multiple 
 
 ---
 
-## GitHub Stats
-
-![Liam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liamjr12&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liamjr12&layout=compact&theme=tokyonight)
-
----
-
 ## Connect With Me
 
 - GitHub: [@Liamjr12](https://github.com/Liamjr12)
